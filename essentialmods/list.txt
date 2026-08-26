@@ -5,3 +5,4 @@ silentsasiloader.json
 modloader.json
 windowedmode.json
 openlimitadjuster.json
+frameratevigilante.json
