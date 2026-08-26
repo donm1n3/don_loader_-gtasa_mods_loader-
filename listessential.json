@@ -1,6 +1,9 @@
 [
   "silentsasiloader",
   "cleo",
+  "cleoplus"
   "moonloader",
-  "modloader"
+  "modloader",
+  "openlimitadjuster",
+  "windowedmode"
 ]
