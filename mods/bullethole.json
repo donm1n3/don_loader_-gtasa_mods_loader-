@@ -1,1 +1,9 @@
-bulletholed
+{
+  "id": "bullethole",
+  "name": "SilentPatch",
+  "version": "1.0",
+  "author": "Ryosuke839",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/SilentPatch.zip"
+}
