@@ -1,1 +1,9 @@
-0.3.10
+{
+  "id": "modloader",
+  "name": "Modloader",
+  "version": "0.3.10",
+  "author": "thelink2012",
+  "description": "TEST",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/essentialfiles/silentsasiloader.zip"
+}
