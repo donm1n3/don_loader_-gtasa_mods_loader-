@@ -1,5 +1,6 @@
 [
   "silentsasiloader",
   "cleo",
-  "moonloader"
+  "moonloader",
+  "modloader"
 ]
