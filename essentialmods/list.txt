@@ -1,3 +1,4 @@
 cleo.json
 moonloader.json
 silentsasiloader.json
+modloader.json
