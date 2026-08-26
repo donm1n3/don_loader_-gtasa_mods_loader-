@@ -6,5 +6,4 @@ modloader.json
 windowedmode.json
 openlimitadjuster.json
 frameratevigilante.json
-widescreenfixbythirteenagunofficial.json
 mixsets.json
