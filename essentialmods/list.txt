@@ -1,4 +1,7 @@
 cleo.json
+cleoplus.json
 moonloader.json
 silentsasiloader.json
 modloader.json
+windowedmode.json
+openlimitadjuster.json
