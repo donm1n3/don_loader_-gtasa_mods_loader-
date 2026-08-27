@@ -6,3 +6,4 @@ urbanize.json
 missinglamppostsfix.json
 reloadmod.json
 improvedfastloader.json
+properfixies.json
