@@ -1,1 +1,9 @@
-improvedfastloader
+{
+  "id": "improvedfastloader",
+  "name": "ImprovedFastloader",
+  "version": "2.2.1 beta",
+  "author": "LINK/2012",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/ImprovedFastloader.zip"
+}
