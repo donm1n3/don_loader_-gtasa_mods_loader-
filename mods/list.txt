@@ -10,3 +10,8 @@ improvedfastloader.json
 properfixies.json
 rosaevolved.json
 alllyingontheground.json
+projectproops.json
+properradar.json
+properplayerretex.json
+moreradaricons.json
+loadscreens4kdefinitive.json
