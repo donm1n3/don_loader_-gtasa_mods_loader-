@@ -4,8 +4,9 @@
   "properfixies",
   "realtrafficfix",
   "skygfx",
-  "urbanize.json",
-  "missinglamppostsfix.json",
-  "reloadmod.json",
-  "improvedfastloader.json"
+  "soundize",
+  "urbanize",
+  "missinglamppostsfix",
+  "reloadmod",
+  "improvedfastloader"
 ]
