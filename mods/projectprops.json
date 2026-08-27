@@ -1,10 +1,10 @@
 
 {
-  "id": "improvedfastloader",
-  "name": "ImprovedFastloader",
-  "version": "1.0",
-  "author": "LINK/2012",
+  "id": "projectprops",
+  "name": "Project Props",
+  "version": "4.2",
+  "author": "Grinch_",
   "description": "Test",
   "icon_url": "https://githubusercontent.com",
-  "download_url": "https://github.com/user-grinch/Project-Props/releases"
+  "external_url": "https://github.com/user-grinch/Project-Props/releases"
 }
