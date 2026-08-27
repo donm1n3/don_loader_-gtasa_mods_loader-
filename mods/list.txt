@@ -2,6 +2,7 @@ bullethole.json
 realtrafficfix.json
 silentpatch.json
 skygfx.json
+soundize.json
 urbanize.json
 missinglamppostsfix.json
 reloadmod.json
