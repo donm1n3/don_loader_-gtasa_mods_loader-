@@ -10,7 +10,7 @@ improvedfastloader.json
 properfixies.json
 rosaevolved.json
 alllyingontheground.json
-projectproops.json
+projectprops.json
 properradar.json
 properplayerretex.json
 moreradaricons.json
