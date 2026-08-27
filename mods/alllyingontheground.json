@@ -1,1 +1,10 @@
-mfiesto
+
+{
+  "id": "alllyingontheground",
+  "name": "AllLyingOnTheGround",
+  "version": "1.0",
+  "author": "mfiesto",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "..."
+}
