@@ -7,5 +7,6 @@ windowedmode.json
 openlimitadjuster.json
 frameratevigilante.json
 mixsets.json
+repairgta.json
 crashinfo.json
 widescreenfixbythirteenagunofficial.json
