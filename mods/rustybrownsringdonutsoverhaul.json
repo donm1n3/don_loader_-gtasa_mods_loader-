@@ -1,2 +1,9 @@
-rustybrownsringdonutsoverhaul
-RustyBrown'sRingDonutsOverhaul
+{
+  "id": "rustybrownsringdonutsoverhaul",
+  "name": "RustyBrown'sRingDonutsOverhaul",
+  "version": "1.2",
+  "author": "ATPs, AlphaBit",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/RustyBrown'sRingDonutsOverhaul.zip"
+}
