@@ -7,3 +7,4 @@ windowedmode.json
 openlimitadjuster.json
 frameratevigilante.json
 mixsets.json
+widescreenfixbythirteenagunofficial.json
