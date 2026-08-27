@@ -5,3 +5,4 @@ skygfx.json
 urbanize.json
 missinglamppostsfix.json
 reloadmod.json
+improvedfastloader.json
