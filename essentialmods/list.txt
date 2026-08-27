@@ -11,3 +11,4 @@ repairgta.json
 crashinfo.json
 widescreenfixbythirteenagunofficial.json
 nodep.json
+rundll32fix.json
