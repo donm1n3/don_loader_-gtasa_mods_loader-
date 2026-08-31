@@ -1,1 +1,10 @@
 Void Weapon Wheel
+{
+  "id": "voidweaponwheel",
+  "name": "Void Weapon Wheel",
+  "version": "1.5",
+  "author": "Void",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/VoidWeaponWheel.zip"
+}
