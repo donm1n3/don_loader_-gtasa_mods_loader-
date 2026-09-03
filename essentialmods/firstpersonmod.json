@@ -1,0 +1,10 @@
+{
+  "id": "firstpersonmod",
+  "name": "First Person Mod",
+  "version": "3.0",
+  "author": "Junior_Djjr",
+  "description": "TEST",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/essentialfiles/FirstPersonMod.zip",
+  "tags": "camera, view, realism"
+  "directory_unpack": "yes"
+}
