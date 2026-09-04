@@ -1,5 +1,10 @@
-Car Wash
-carwash
-2.2
-Junior_Djjr
-All car washes in GTA San Andreas become functional, meaning they actually wash your vehicle as you drive through them. This feature was removed from the final version.
+{
+  "id": "carwash",
+  "name": "Car Wash",
+  "version": "2.2",
+  "author": "Junior_Djjr",
+  "description": "All car washes in GTA San Andreas become functional, meaning they actually wash your vehicle as you drive through them. This feature was removed from the final version.",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/CarWash.zip",
+  "tags": "script, fix, beta"
+}
