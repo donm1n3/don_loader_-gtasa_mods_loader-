@@ -1,3 +1,10 @@
-https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd/
-GTA SA HD Movies Folder
-gtasahdmoviesfolder
+{
+  "id": "gtasahdmoviesfolder",
+  "name": "GTA SA HD Movies Folder",
+  "version": "11/19/20",
+  "author": "Junior_Djjr, Firefly",
+  "description": "The introductory videos Logo.mpg and GTAtitles.mpg are now in HD widescreen 16:9, remastered with AI upscaling.",
+  "icon_url": "https://githubusercontent.com",
+  "external_url": "https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd/",
+  "tags": "hd"
+}
