@@ -1,5 +1,10 @@
-BetaMulhollandSafehouse
-betamulhollandsafehouse
-Kalvin
-11/04/22
-This mod re-adds the house in the hills from the beta version of GTA SA (from the game trailer), which was removed in the final version.
+{
+  "id": "betamulhollandsafehouse",
+  "name": "Beta Mulholland Safehouse (fixed) + HD",
+  "version": "11/04/22",
+  "author": "Kalvin, Junior_Djjr",
+  "description": "This mod re-adds the house in the hills from the beta version of GTA SA (from the game trailer), which was removed in the final version.",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/BetaMulhollandSafehouse.zip",
+  "tags": "beta, hd"
+}
