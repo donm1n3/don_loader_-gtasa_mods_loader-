@@ -38,3 +38,4 @@ simplefreecam.json
 pickupsmod.json
 project2dfx.json
 collectiblesonradar.json
+hudenabler.json
