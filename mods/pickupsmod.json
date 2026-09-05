@@ -1,4 +1,10 @@
-Pickups Mod
-pickupsmod
-1.1
-ArtemQa146
+{
+  "id": "pickupsmod",
+  "name": "Pickups Mod",
+  "version": "1.1",
+  "author": "ArtemQa146",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/PickupsMod.zip",
+  "tags": "script, realism"
+}
