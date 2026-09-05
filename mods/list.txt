@@ -33,5 +33,6 @@ autosave.json
 buymolotovsatgasstations.json
 carexplodesinlargefalls.json
 noclip.json
+simplefreecam.json
 pickupsmod.json
 project2dfx.json
