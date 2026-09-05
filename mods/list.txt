@@ -15,6 +15,7 @@ properradar.json
 properplayerretex.json
 moreradaricons.json
 loadscreens4kdefinitive.json
+atmosphereinterfacepack.json
 foodeatingfix.json
 rustybrownsringdonutsoverhaul.json
 ragdollbulletphysics.json
