@@ -1,4 +1,10 @@
-CarExplodesInLargeFalls
-carexplodesinlargefalls
-Nex’
-1.0
+{
+  "id": "carexplodesinlargefalls",
+  "name": "Car Explodes In Large Falls",
+  "version": "1.0",
+  "author": "Nex’",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/CarExplodesInLargeFalls.zip",
+  "tags": "script, fix"
+}
