@@ -1,4 +1,10 @@
-AlvarynGTA
-Buy Molotovs at Gas Stations
-buymolotovsatgasstations
-1.0
+{
+  "id": "buymolotovsatgasstations",
+  "name": "Buy Molotovs at Gas Stations",
+  "version": "1.0",
+  "author": "AlvarynGTA",
+  "description": "Allows the player to purchase Molotov cocktails from gas station pumps using a simple interaction system.",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/Autosave.zip",
+  "tags": "script, fix"
+}
