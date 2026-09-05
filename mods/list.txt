@@ -32,3 +32,5 @@ carwash.json
 autosave.json
 buymolotovsatgasstations.json
 carexplodesinlargefalls.json
+noclip.json
+pickupsmod.json
