@@ -1,4 +1,14 @@
-Project2DFX
-project2dfx
-ThirteenAG, TJGM
-4.4
+
+
+
+
+{
+  "id": "project2dfx",
+  "name": "Project2DFX",
+  "version": "4.4",
+  "author": "ThirteenAG, TJGM",
+  "description": "Test",
+  "icon_url": "https://githubusercontent.com",
+  "external_url": "https://www.mixmods.com.br/2026/06/sa-proper-fixes/",
+  "tags": "script, fix, realism, comfort"
+}
