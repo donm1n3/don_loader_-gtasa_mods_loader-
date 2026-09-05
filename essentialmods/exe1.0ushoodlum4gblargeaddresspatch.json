@@ -1,4 +1,9 @@
-EXE 1.0 US Hoodlum + 4 GB largeaddress patch
-exe1.0ushoodlum4gblargeaddresspatch
-1.0
-Hoodlum
+{
+  "id": "exe1.0ushoodlum4gblargeaddresspatch",
+  "name": "EXE 1.0 US Hoodlum + 4 GB largeaddress patch",
+  "version": "1.0",
+  "author": "Hoodlum",
+  "description": "TEST",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/essentialfiles/EXE1.0USHoodlum+4GBlargeaddresspatch.zip",
+  "tags": "essential, main"
+}
