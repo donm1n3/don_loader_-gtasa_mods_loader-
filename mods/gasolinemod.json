@@ -1,0 +1,10 @@
+{
+  "id": "gasolinemod",
+  "name": "Gasoline Mod",
+  "version": "3.1",
+  "author": "Artem.1.9.9.6",
+  "description": "Adds a realistic fuel system to GTA San Andreas, requiring players to refuel their vehicles at gas stations, manage gasoline levels, and even use portable fuel canisters when running empty.",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/GasolineMod.zip",
+  "tags": "vehicle, realism"
+}
