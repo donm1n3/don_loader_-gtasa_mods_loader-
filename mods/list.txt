@@ -41,3 +41,4 @@ collectiblesonradar.json
 hudenabler.json
 wantedradarwarning.json
 fasterclotheschanges.json
+gpsredux.json
