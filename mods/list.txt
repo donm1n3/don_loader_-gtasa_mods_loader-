@@ -43,5 +43,5 @@ wantedradarwarning.json
 fasterclotheschanges.json
 gpsredux.json
 vehfuncs.json
-gasolinemod.json.json
+gasolinemod.json
 unflipyourcarslikeingtav.json
