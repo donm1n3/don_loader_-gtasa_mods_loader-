@@ -47,3 +47,4 @@ gasolinemod.json
 unflipyourcarslikeingtav.json
 aimsensibility.json
 weaponchangeanimfixed.json
+manualdrivebyrefixed.json
