@@ -42,3 +42,4 @@ hudenabler.json
 wantedradarwarning.json
 fasterclotheschanges.json
 gpsredux.json
+vehfuncs.json
