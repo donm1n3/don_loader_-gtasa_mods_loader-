@@ -45,3 +45,4 @@ gpsredux.json
 vehfuncs.json
 gasolinemod.json
 unflipyourcarslikeingtav.json
+aimsensibility.json
