@@ -52,3 +52,4 @@ spreadfix.json
 homebrains.json
 randomeventsproject.json
 opendooranim.json
+2playerdeluxe.json
