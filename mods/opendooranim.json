@@ -1,0 +1,10 @@
+{
+  "id": "opendooranim",
+  "name": "Open Door Anim",
+  "version": "1.2.2",
+  "author": "Junior_Djjr",
+  "description": "This mod adds an animation for opening doors to CJ and any other pedestrian , specifically for doors that open using physics.",
+  "icon_url": "https://githubusercontent.com",
+  "download_url": "https://github.com/donm1n3/don_loader_-gtasa_mods_loader-/raw/refs/heads/main/files/OpenDoorAnim.zip",
+  "tags": "fix"
+}
