@@ -50,3 +50,4 @@ weaponchangeanimfixed.json
 manualdrivebyrefixed.json
 spreadfix.json
 homebrains.json
+randomeventsproject.json
